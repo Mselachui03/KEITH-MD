@@ -148,7 +148,7 @@ module.exports = async (context) => {
                         title: "🌟 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃 ✨",
                         body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 𝐊𝐞𝐢𝐭𝐡𝐤𝐞𝐢𝐳𝐳𝐚𝐡",
                         thumbnailUrl: "https://i.imgur.com/v9gJCSD.jpeg",
-                        sourceUrl: "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47",
+                        sourceUrl: "https://whatsapp.com/channel/0029VaoLOJiGOj9f7tzxiP2H",
                         mediaType: 1,
                         renderLargerThumbnail: true
                     }
